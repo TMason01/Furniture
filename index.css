@@ -1,0 +1,43 @@
+h1 {
+    color: rgb(235, 110, 52);
+}
+
+.Intro_paragraph {;
+    color: rgb(161, 70, 10);
+
+}
+
+.couch {
+    background-color: rgb(45, 163, 227);
+    color: rgb(235, 243, 6);
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+}
+
+.couch button {
+    background-color: rgb(34, 165, 111);
+
+}
+.table {
+    background-color: rgb(11, 7, 90);
+    color: rgb(237, 2, 2);
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+
+}
+
+.table button {
+    background-color: bisque;
+}
+
+.chair {
+    background-color: rgb(207, 172, 57);
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+}
+
+.chair button {
+    background-color: rgb(37, 220, 64);
+}
+
+    
